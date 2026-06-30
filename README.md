@@ -4,7 +4,7 @@
 
 ###  Software Engineering Student |  Lifelong Learner |  Backend Developer |  DevSecOps Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Learning+AI+%26+Cybersecurity;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;DevSecOps+Developer;Learning+AI+%26+Cybersecurity;Always+Building+Something+New" />
 
 </div>
 
