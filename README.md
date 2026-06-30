@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there 👋, I'm Đức Anh
+# Hi👋, I'm Đức Anh
 
-### 💻 Software Engineering Student | 🌱 Lifelong Learner | 🚀 Future Full Stack Developer
+###  Software Engineering Student |  Lifelong Learner |  Backend Developer |  DevSecOps Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Web+Developer;Learning+AI+%26+Cybersecurity;Always+Building+Something+New" />
 
@@ -10,15 +10,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
-- 🎓 Information Technology Student at **Posts and Telecommunications Institute of Technology (PTIT)**
-- 💙 Passionate about **Software Engineering**
-- 🌱 Currently learning **Spring Boot, React, Docker, Cloud, AI**
-- 🔒 Interested in **Cybersecurity**
-- 🚀 Goal: Become a Full Stack Software Engineer
-- 🌏 Dream: Work abroad for several years before returning to Vietnam
-
+-  Information Technology Student at **Posts and Telecommunications Institute of Technology (PTIT)**
+-  Passionate about **Software Engineering**
+-  Currently learning **Spring Boot, React, Docker, Cloud, AI**
+-  Interested in **Cybersecurity**
+-  Goal: Become a DevSecOps Developer
 ---
 
 ## 🛠 Tech Stack
@@ -26,36 +24,36 @@
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,idea,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### ✂️ Cutie Cuts
 Modern Hair Salon Management System
@@ -63,7 +61,7 @@ Modern Hair Salon Management System
 **Tech Stack**
 - Spring Boot
 - React
-- MySQL
+- PostgreSQL
 - Docker
 - JWT Authentication
 - MinIO Storage
@@ -82,51 +80,11 @@ Features:
 
 ---
 
-### 📊 Econometrics Projects
 
-- Data Analysis
-- Stata
-- Jupyter Notebook
-- Python
+##  Currently Learning
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Spring Security
-- Docker & Kubernetes
+- Security
+- Docker 
 - Clean Architecture
 - Microservices
 - AI Engineering
@@ -134,7 +92,7 @@ Features:
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p>
 
@@ -151,15 +109,3 @@ Features:
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 💡 Favorite Quote
-
-> *"Code. Learn. Build. Repeat."*
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
-
-</div>
